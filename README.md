@@ -23,37 +23,4 @@ Player
 
                         No Cooldown Skill/Ultimate/Sprint
 
-World
-Auto Loot
-Auto Talk
-Killaura
-Auto Tree Farm
-Mob Vacuum
-Auto Fish
-Auto Cooking
-
-Music Event
-Teleport
-Chest/Oculi Teleport
-Map Teleport
-Custom Teleport
-
-Visuals
-ESP
-Interactive Map
-Elemental Sight
-Profile Changer
-In-game Embedded Browser
-Hide UI
-Camera Zoom
-No Fog
-Other
-Godmode
-AOE loot
-AOE chests
-Mob Magnetizer
-Speedup Dialogues
-Freeze Mobs
-Skip Cutscenes
-FPS unlocker
-Config system
+! (https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTys57KHZ76QytKCLgNgAwFdh35ercT99G53g&usqp=CAU)
