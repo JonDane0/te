@@ -4,23 +4,10 @@
 
 
 ## How to install?
-Download and run the application
-
-            Launch the game
-                In-game INSERT button
-
-Functions
-Player
-
-    Invincible
-            NoClip
-                    Unlimited Stamina
-                        Fast attack
-                        Rapid Fire
-                        Dumb Enemies
-                        Inf Ultimate
-                        Attack Modifier
-
-                        No Cooldown Skill/Ultimate/Sprint
+* Download and run the application
+* Launch the game In-game INSERT button
+  
+## Disclaimer
+will update frequently so keep posted with updates
 
 ! (https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTys57KHZ76QytKCLgNgAwFdh35ercT99G53g&usqp=CAU)
